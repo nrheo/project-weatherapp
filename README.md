@@ -16,9 +16,7 @@ I implemented the OpenWeather API to fetch live, global weather data and made HT
 
 ## Demo
 
-![Screenshot 2024-01-15 at 11 26 41 PM](https://github.com/nrheo/project-weatherapp/assets/154557592/74f6da83-8c71-4168-a75f-60da68842fc4)
-
-![Screenshot 2024-01-15 at 11 27 16 PM](https://github.com/nrheo/project-weatherapp/assets/154557592/e9aa1ae8-f2b8-4551-b3c6-c562668eba99)
+![Screenshot 2024-01-15 at 11 29 19 PM](https://github.com/nrheo/project-weatherapp/assets/154557592/cf92df7b-531b-49b8-84ca-3ff45c22b700)
 
 
 
